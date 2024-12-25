@@ -1,0 +1,12 @@
+Hp blue400 5TB  3200rpm 1500.00TL stok90
+Seagate wd-green 1TB  5000rpm 1300.00TL stok30 
+Hp 345m7aa 1TB 7200rpm 212.00TL stok20
+Hp s700 5TB 7200rpm 899.00TL stok50
+Hp s700 1TB 7200rpm 519.00TL stok50
+Kingston A400 2TB 7200rpm 339.00TL stok20
+Kingston Kc600 5TB 7200rpm 1399.00TL stok20
+Kingston Kc3000 1TB 3200rpm 2039.00TL stok10
+Seagate Barracuda 2TB 7200rpm 1089.00TL stok25
+Seagate Skyhawk 1TB 5900rpm 789.00TL stok30
+Seagate STKP 6TB 5900rpm 2999.00TL stok15
+Seagate SkyHawk 4TB 5900rpm 1578.00TL stok50

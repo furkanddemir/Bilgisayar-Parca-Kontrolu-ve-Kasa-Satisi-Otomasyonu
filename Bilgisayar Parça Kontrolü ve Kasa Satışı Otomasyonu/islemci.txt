@@ -1,0 +1,9 @@
+Intel i5-13400 2,5Ghz 6691.00TL stok200
+Intel i7-13700F 2,1Ghz 10095.00TL stok100
+Intel i3-13100F 3Ghz 3279.00TL stok250
+Intel i9-13900kf 3Ghz 15810.00TL stok50
+Intel pentium-g6405 4,1Ghz 1597.00TL stok100
+Amd Ryzen5-7600 3,8Ghz 5970.00TL stok300
+Amd Ryzen9-7950x3D 4,2Ghz 20289.00TL stok50
+Amd Ryzen7-7800x3D 4,2Ghz 13037.00TL stok100
+Amd Ryzen3-4100 3,8Ghz 1912.00TL stok150

@@ -1,0 +1,10 @@
+[1] MEHMET ILHAN 1903 HAZIR SISTEM
+
+Islemci: AMD Ryzen 5 5500
+Ekran Karti: GIGABYTE GeForce RTX 3060 WINDFORCE OC 12GB
+Ram: 16GB DDR4
+Depolama: 512GB M.2 NVMe SSD
+Model: Geforce RTX RayTracing PC
+
+Fiyat: 16.371 TL
+
