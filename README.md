@@ -18,7 +18,8 @@ Bu proje aşağıdaki alanlarda kullanılabilir:
 Aşağıda proje görselleri bulunmaktadır:
 
 ### 📌 Sistem Arayüzü
-![Sistem Arayüzü](path/to/screenshot1.png)
+![Ekran görüntüsü 2024-12-25 144644](https://github.com/user-attachments/assets/9948140c-3574-4966-b0ae-0bbd5ba2ec3c)
+
 
 
 
