@@ -68,38 +68,52 @@ Giriş Ekranı
 
 ---
 Hazır Sistemler Menüsü
+
 ![Ekran görüntüsü 2024-12-25 145314](https://github.com/user-attachments/assets/125f1309-abb3-493b-9732-2230995b1ba0)
 
 
 ---
 Hazır Sistem Özellikleri Ekranı
+
 ![Ekran görüntüsü 2024-12-25 145405](https://github.com/user-attachments/assets/82fd791c-7dd7-4414-afe2-f10bf8a3b4e7)
 
 
 ---
+Hazır Sistem Satın Alma Ekranı 
+
 ![Ekran görüntüsü 2024-12-25 145438](https://github.com/user-attachments/assets/efc305b1-62d6-42c3-bee5-a95167db058c)
 
-Hazır Sistem Satın Alma Ekranı 
+
 ---
+Cüzdan Menüsü
+
 ![Ekran görüntüsü 2024-12-25 145506](https://github.com/user-attachments/assets/07ae0310-38f1-4860-8586-e93aeb517f6e)
 
-Cüzdan Menüsü 
+ 
 ---
+Bakiye Ekleme Menüsü 
+
 ![Ekran görüntüsü 2024-12-25 145742](https://github.com/user-attachments/assets/d052e7a5-ffa5-4270-8266-f79877ed7d1e)
 
-Bakiye Ekleme Menüsü 
+
 ---
+Admin Menüsü
+
 ![Ekran görüntüsü 2024-12-25 145830](https://github.com/user-attachments/assets/4f548ee1-55b5-43ff-9fd2-ed3bbd6bdab8)
 
-Admin Menüsü
+
 ---
+Admin Paneli
+
 ![Ekran görüntüsü 2024-12-25 145853](https://github.com/user-attachments/assets/894e4095-e219-4efd-b583-0dd756f09e0b)
 
-Admin Paneli
+
 ---
+Admin Ürün Ekleme Menüsü 
+
 ![Ekran görüntüsü 2024-12-25 145928](https://github.com/user-attachments/assets/241acec7-d26b-4fd3-8fb8-88016f3153c1)
 
-Admin Ürün Ekleme Menüsü 
+
 ---
 
 
