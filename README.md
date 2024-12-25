@@ -61,17 +61,20 @@ Kullanıcı, hazır sistemlerden birini seçebilir. Sistem seçenekleri aşağı
 Aşağıda proje görselleri bulunmaktadır:
 
 ### 📌 Sistem Arayüzü
+Giriş Ekranı 
 ![Ekran görüntüsü 2024-12-25 144644](https://github.com/user-attachments/assets/9948140c-3574-4966-b0ae-0bbd5ba2ec3c)
 
-Giriş Ekranı 
+
 ---
+Hazır Sistemler Menüsü
 ![Ekran görüntüsü 2024-12-25 145314](https://github.com/user-attachments/assets/125f1309-abb3-493b-9732-2230995b1ba0)
 
-Hazır Sistemler Menüsü
+
 ---
+Hazır Sistem Özellikleri Ekranı
 ![Ekran görüntüsü 2024-12-25 145405](https://github.com/user-attachments/assets/82fd791c-7dd7-4414-afe2-f10bf8a3b4e7)
 
- Hazır Sistem Özellikleri Ekranı
+
 ---
 ![Ekran görüntüsü 2024-12-25 145438](https://github.com/user-attachments/assets/efc305b1-62d6-42c3-bee5-a95167db058c)
 
